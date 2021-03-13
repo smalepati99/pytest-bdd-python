@@ -1,7 +1,7 @@
 # pytest-bdd
-This repository contains example code for the
+
 *Behavior-Driven Python with pytest-bdd* 
-There is a branch for each chapter of the course showing the state of the code at the completion of the chapter.
+
 
 ## Setup
 This project requires an up-to-date version of Python 3.
