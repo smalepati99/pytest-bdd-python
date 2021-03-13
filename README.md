@@ -1,4 +1,4 @@
-# dlg-pytest-bdd
+# pytest-bdd
 This repository contains example code for the
 *Behavior-Driven Python with pytest-bdd* 
 There is a branch for each chapter of the course showing the state of the code at the completion of the chapter.
